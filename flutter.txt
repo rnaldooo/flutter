@@ -1,0 +1,19 @@
+ 
+ git init 
+git branch -M main
+git push -u origin main
+git add .
+se der erro veja se tem que apagar pasta vazia com o nome do repositorio
+
+git commit -a -m "comm001"
+
+git push origin master
+ou
+git push origin main
+
+ 
+flutter enable-windows-desktop  
+
+pasta lib é a que usa
+
+flutter create .
